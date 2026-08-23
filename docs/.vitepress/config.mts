@@ -42,9 +42,9 @@ export default defineConfig({
                     ]
                 }
             ]
-        }
-    },
-    socialLinks: [
-        { icon: 'github', link: 'https://github.com/politetrex/ntms-save-broadcast' }
-    ]
+        },
+        socialLinks: [
+            { icon: 'github', link: 'https://github.com/politetrex/ntms-save-broadcast' }
+        ]
+    }
 })
