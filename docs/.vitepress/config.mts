@@ -30,9 +30,18 @@ export default defineConfig({
             '/broadcast/':
             [
                 {
-                    text: 'EVAS相关',
+                    text: '公示总览',
+                    link: '/broadcast/broad',
                     items: [
-                        { text: '公示', link: '/broadcast/broadv1' }
+                        {
+                            text: 'EVAS相关',
+                            items: [
+                                { text: '收到v1', link: '/broadcast/broadve1' },
+                                { text: '公示v1', link: '/broadcast/broadv1' },
+                                { text: '收到v2', link: '/broadcast/broadev2' },
+                                { text: '公示v2', link: '/broadcast/broadv2' }
+                            ]
+                        }
                     ]
                 },
                 {   
