@@ -15,20 +15,20 @@ hero:
       link: https://github.com/politetrex/ntms-save-broadcast
 
 features:
-    - title: EVAS相关
-        details: 
-            EVAS相关的公告、新闻、活动等
-        link: 
-            /broadcast/broade
-    - title: TRY.ing
-        details: 
-            一个倡导互助与友谊的洛谷团队
-        link: 
-            /broadcast/tryv1
-    - title: 访问数量
-        details: 
-            ![](https://w.saobby.com/w/e8pi56wo)
-    - title: 页面更新
-        details: 
-            页面非实时更新。
+  - title: EVAS相关
+    details: 
+        EVAS相关的公告、新闻、活动等
+    link: 
+        /broadcast/broade
+  - title: TRY.ing
+    details: 
+        一个倡导互助与友谊的洛谷团队
+    link: 
+        /broadcast/tryv1
+  - title: 访问数量
+    details: 
+        <img src="https://w.saobby.com/w/e8pi56wo">
+  - title: 页面更新
+    details: 
+        页面非实时更新。
 ---
