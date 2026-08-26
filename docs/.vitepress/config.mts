@@ -34,7 +34,7 @@ export default defineConfig({
             [
                 {
                     text: 'EVAS相关',
-                    link: '/broadcast/defevas/',
+                    link: '/broadcast/defevas/broade',
                     items: [
                         { text: '收到v1', link: '/broadcast/defevas/broadve1' },
                         { text: '公示v1', link: '/broadcast/defevas/broadv1' },
@@ -44,7 +44,7 @@ export default defineConfig({
                 },
                 {   
                     text: '广告',
-                    link: '/broadcast/ads/',
+                    link: '/broadcast/ads/ad',
                     items: [
                         { text: 'TRY.ing', link: '/broadcast/ads/tryv1' }
                     ]
