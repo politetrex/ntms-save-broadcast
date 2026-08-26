@@ -31,23 +31,24 @@ export default defineConfig({
             [
                 {
                     text: '公示总览',
-                    link: '/broadcast/broad',
+                    link: '/broadcast/broad/',
                     items: [
                         {
                             text: 'EVAS相关',
                             items: [
-                                { text: '收到v1', link: '/broadcast/broadve1' },
-                                { text: '公示v1', link: '/broadcast/broadv1' },
-                                { text: '收到v2', link: '/broadcast/broadev2' },
-                                { text: '公示v2', link: '/broadcast/broadv2' }
+                                { text: '收到v1', link: '/broadcast/defevas/broadve1' },
+                                { text: '公示v1', link: '/broadcast/defevas/broadv1' },
+                                { text: '收到v2', link: '/broadcast/defevas/broadev2' },
+                                { text: '公示v2', link: '/broadcast/defevas/broadv2' }
                             ]
                         }
                     ]
                 },
                 {   
-                    text: '宣团相关',
+                    text: '广告',
+                    link: '/broadcast/ads/',
                     items: [
-                        { text: 'TRY.ing', link: '/broadcast/tryv1' }
+                        { text: 'TRY.ing', link: '/broadcast/ads/tryv1' }
                     ]
                 }
             ]
