@@ -19,16 +19,17 @@ features:
     details: 
         EVAS相关的公告、新闻、活动等
     link: 
-        /broadcast/broade
-  - title: TRY.ing
+        /broadcast/defevas/broade
+  - title: （广告）TRY.ing
     details: 
         一个倡导互助与友谊的洛谷团队
     link: 
-        /broadcast/tryv1
+        /broadcast/ads/tryv1
   - title: 访问数量
     details: 
         <img src="https://w.saobby.com/w/e8pi56wo">
   - title: 页面更新
     details: 
         页面非实时更新。
+        本版本为v8版本。
 ---
