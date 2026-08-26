@@ -23,7 +23,7 @@ export default defineConfig({
                     {   
                         text: '广告',
                         items: [
-                            { text: 'TRY.ing', link: '/broadcast/tryv1' }
+                            { text: 'TRY.ing', link: '/broadcast/ads/tryv1' }
                         ]
                     }
                 ]
