@@ -14,11 +14,14 @@ export default defineConfig({
                     {
                         text: 'EVAS相关',
                         items: [
-                            { text: '公示', link: '/broadcast/broadv1' }
+                            { text: '收到v1', link: '/broadcast/defevas/broadve1' },
+                            { text: '公示v1', link: '/broadcast/defevas/broadv1' },
+                            { text: '收到v2', link: '/broadcast/defevas/broadev2' },
+                            { text: '公示v2', link: '/broadcast/defevas/broadv2' }
                         ]
                     },
                     {   
-                        text: '宣团相关',
+                        text: '广告',
                         items: [
                             { text: 'TRY.ing', link: '/broadcast/tryv1' }
                         ]
@@ -30,18 +33,13 @@ export default defineConfig({
             '/broadcast/':
             [
                 {
-                    text: '公示总览',
-                    link: '/broadcast/broad/',
+                    text: 'EVAS相关',
+                    link: '/broadcast/defevas/',
                     items: [
-                        {
-                            text: 'EVAS相关',
-                            items: [
-                                { text: '收到v1', link: '/broadcast/defevas/broadve1' },
-                                { text: '公示v1', link: '/broadcast/defevas/broadv1' },
-                                { text: '收到v2', link: '/broadcast/defevas/broadev2' },
-                                { text: '公示v2', link: '/broadcast/defevas/broadv2' }
-                            ]
-                        }
+                        { text: '收到v1', link: '/broadcast/defevas/broadve1' },
+                        { text: '公示v1', link: '/broadcast/defevas/broadv1' },
+                        { text: '收到v2', link: '/broadcast/defevas/broadev2' },
+                        { text: '公示v2', link: '/broadcast/defevas/broadv2' }
                     ]
                 },
                 {   
